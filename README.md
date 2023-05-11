@@ -1,6 +1,8 @@
-# Projeto Arduino - Monitor de Ambiente
+# Projeto Arduino - Monitor de Ambiente (PT-BR)
 
 Este é um projeto Arduino desenvolvido no Tinkercad que consiste em um monitor de ambiente. O código implementa funcionalidades relacionadas à iluminação, temperatura e umidade, exibindo informações em um display LCD e acionando LEDs e um buzzer conforme as condições do ambiente.
+
+Link:https://www.tinkercad.com/things/7uZXbIPC0Mc?sharecode=-SpCCsuE_hiz8MwrR8nGu9uKz_BPMkJLkqM4-oxpBgw
 
 ## Funcionalidades
 
@@ -47,9 +49,11 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issue
 
 ---
 
-# Arduino Project - Environment Monitor
+# Arduino Project - Environment Monitor (EN)
 
 This is an Arduino project developed in Tinkercad that serves as an environment monitor. The code implements functionalities related to lighting, temperature, and humidity, displaying information on an LCD and activating LEDs and a buzzer according to the ambient conditions.
+
+Link: https://www.tinkercad.com/things/7uZXbIPC0Mc?sharecode=-SpCCsuE_hiz8MwrR8nGu9uKz_BPMkJLkqM4-oxpBgw
 
 ## Features
 

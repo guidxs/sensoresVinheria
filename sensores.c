@@ -1,9 +1,9 @@
 #include <LiquidCrystal.h>
 
 // Pinos dos componentes
-const int ledVerdePin = 11;
+const int ledVerdePin = 13;
 const int ledAmareloPin = 12;
-const int ledVermelhoPin = 13;
+const int ledVermelhoPin = 11;
 const int buzzerPin = 10;
 const int tempSensorPin = A2;
 const int lightSensorPin = A1;

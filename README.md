@@ -2,7 +2,7 @@
 
 Este é um projeto Arduino desenvolvido no Tinkercad que consiste em um monitor de ambiente. O código implementa funcionalidades relacionadas à iluminação, temperatura e umidade, exibindo informações em um display LCD e acionando LEDs e um buzzer conforme as condições do ambiente.
 
-Link:https://www.tinkercad.com/things/7uZXbIPC0Mc?sharecode=-SpCCsuE_hiz8MwrR8nGu9uKz_BPMkJLkqM4-oxpBgw
+Link: https://www.tinkercad.com/things/7uZXbIPC0Mc?sharecode=-SpCCsuE_hiz8MwrR8nGu9uKz_BPMkJLkqM4-oxpBgw
 
 ## Funcionalidades
 
